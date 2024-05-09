@@ -1,5 +1,5 @@
 ## Welcome to GitHub Games - Omar Rosas Aldana
-
+ cambio 1 en dev
 A project based learning activity for people who are getting started with Git and GitHub.
 
 You can play the game at: https://githubschool.github.io/github-games/
