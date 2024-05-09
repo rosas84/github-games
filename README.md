@@ -10,6 +10,6 @@ Cambio 4 en Dev
 
 Cambio 9 en DEV
 
-This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
+This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris cambio 15 en DESA
 
 ## cambio 8 en QA
