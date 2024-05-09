@@ -1,4 +1,4 @@
-## Welcome to GitHub Games - Omar Vásquez
+## Welcome to GitHub Games - Omar Rosas Aldana
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
